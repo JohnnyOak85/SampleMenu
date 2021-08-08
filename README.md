@@ -1,4 +1,4 @@
-## Menu Example
+## Sample Menu
 
 An example menu project with reusable components.
 

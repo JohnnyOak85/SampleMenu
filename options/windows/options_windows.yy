@@ -1,9 +1,9 @@
 {
-  "option_windows_display_name": "Menu Example",
+  "option_windows_display_name": "Sample Menu",
   "option_windows_executable_name": "${project_name}.exe",
   "option_windows_version": "1.0.0.0",
   "option_windows_company_info": "",
-  "option_windows_product_info": "Menu Example",
+  "option_windows_product_info": "Sample Menu",
   "option_windows_copyright_info": "",
   "option_windows_description_info": "An example of a game menu with various options",
   "option_windows_display_cursor": true,
