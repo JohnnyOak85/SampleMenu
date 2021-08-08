@@ -3,10 +3,10 @@
     {"id":{"name":"wand","path":"sprites/wand/wand.yy",},"order":1,},
     {"id":{"name":"faces","path":"sprites/faces/faces.yy",},"order":0,},
     {"id":{"name":"frame","path":"sprites/frame/frame.yy",},"order":2,},
-    {"id":{"name":"objMenu","path":"objects/objMenu/objMenu.yy",},"order":0,},
-    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},"order":5,},
-    {"id":{"name":"obj_main_menu","path":"objects/obj_main_menu/obj_main_menu.yy",},"order":1,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"obj_main_menu1","path":"objects/obj_main_menu1/obj_main_menu1.yy",},"order":0,},
+    {"id":{"name":"Main_Menu1","path":"rooms/Main_Menu1/Main_Menu1.yy",},"order":0,},
+    {"id":{"name":"obj_preload_menu","path":"objects/obj_preload_menu/obj_preload_menu.yy",},"order":1,},
+    {"id":{"name":"Preload_Menu","path":"rooms/Preload_Menu/Preload_Menu.yy",},"order":1,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -22,8 +22,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"roomId":{"name":"Preload_Menu","path":"rooms/Preload_Menu/Preload_Menu.yy",},},
+    {"roomId":{"name":"Main_Menu1","path":"rooms/Main_Menu1/Main_Menu1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -52,7 +52,7 @@
     "IDEVersion": "2.3.3.574",
   },
   "resourceVersion": "1.4",
-  "name": "Menu_Demo",
+  "name": "Menu_Example",
   "tags": [],
   "resourceType": "GMProject",
 }
